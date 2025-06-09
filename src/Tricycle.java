@@ -1,5 +1,6 @@
 /**
- * Расширенный класс автомобиль с тремя колёсами унаследованный от абстрактного класса Car
+ * Расширенный класс автомобиль с тремя колёсами унаследованный от абстрактного класса Car.
+ * Провести проверку принципа LSP.
  */
 public class Tricycle extends Car{
     public Tricycle(String mark, String model, String color, String bodyType, String fuelType, String transmissionType,

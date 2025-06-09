@@ -1,3 +1,7 @@
+
+/*
+ 2. Создать конкретный автомобиль путём наследования класса «Car».
+ */
 public class Toyota extends Car {
     public Toyota(String mark, String model, String color, String bodyType, String fuelType, String transmissionType, int numberOfWheels, double engineVolume) {
         super("Toyota", model, color, bodyType, fuelType, transmissionType, numberOfWheels, engineVolume);
